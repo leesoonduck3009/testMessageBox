@@ -1,0 +1,12 @@
+C:\Data\C++\FormMessageBox\FormMessageBox\bin\Debug\FormMessageBox.exe.config
+C:\Data\C++\FormMessageBox\FormMessageBox\bin\Debug\FormMessageBox.exe
+C:\Data\C++\FormMessageBox\FormMessageBox\bin\Debug\FormMessageBox.pdb
+C:\Data\C++\FormMessageBox\FormMessageBox\obj\Debug\FormMessageBox.csproj.AssemblyReference.cache
+C:\Data\C++\FormMessageBox\FormMessageBox\obj\Debug\FormMessageBox.csproj.SuggestedBindingRedirects.cache
+C:\Data\C++\FormMessageBox\FormMessageBox\obj\Debug\FormMessageBox.Properties.Resources.resources
+C:\Data\C++\FormMessageBox\FormMessageBox\obj\Debug\FormMessageBox.csproj.GenerateResource.cache
+C:\Data\C++\FormMessageBox\FormMessageBox\obj\Debug\FormMessageBox.csproj.CoreCompileInputs.cache
+C:\Data\C++\FormMessageBox\FormMessageBox\obj\Debug\FormMessageBox.exe
+C:\Data\C++\FormMessageBox\FormMessageBox\obj\Debug\FormMessageBox.pdb
+C:\Data\C++\FormMessageBox\FormMessageBox\obj\Debug\FormMessageBox.FormMain.resources
+C:\Data\C++\FormMessageBox\FormMessageBox\obj\Debug\FormMessageBox.FormMessageBox.resources
